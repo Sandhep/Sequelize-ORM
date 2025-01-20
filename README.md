@@ -73,7 +73,7 @@ Response:
 }
 ```
 
-## 2. Get All Employees (GET)
+### 2. Get All Employees (GET)
 URL: /employees
 Method: GET
 Response:
